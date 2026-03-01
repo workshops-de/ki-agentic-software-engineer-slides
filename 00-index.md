@@ -29,24 +29,34 @@ Slide Deck Collection
 
 <div class="grid grid-cols-1 gap-4 mt-8 text-left max-w-xl mx-auto">
 
-<a href="../01-example-lesson/" class="rounded-lg bg-white bg-opacity-10 hover:bg-opacity-20 transition-all no-underline">
-  <h3 class="text-xl font-bold">01 - Example Lesson</h3>
-  <p class="text-sm opacity-70">This is an example lesson to demonstrate the structure</p>
+<a href="../01-why-software-engineers-need-ai/" class="rounded-lg bg-white bg-opacity-10 hover:bg-opacity-20 transition-all no-underline">
+  <h3 class="text-xl font-bold">01 - Why Software Engineers Need AI</h3>
+  <p class="text-sm opacity-70">The elephant in the room — embrace AI and future-proof your career.</p>
 </a>
 
-<a href="../02-rules-and-instructions/" class="rounded-lg bg-white bg-opacity-10 hover:bg-opacity-20 transition-all no-underline">
-  <h3 class="text-xl font-bold">02 - Rules &amp; Instructions</h3>
-  <p class="text-sm opacity-70">Fine grained task delegation.</p>
+<a href="../02-llm-introduction/" class="rounded-lg bg-white bg-opacity-10 hover:bg-opacity-20 transition-all no-underline">
+  <h3 class="text-xl font-bold">02 - How LLMs Work</h3>
+  <p class="text-sm opacity-70">Tokenization, embeddings, transformers, and failure modes — the mechanics behind modern AI.</p>
 </a>
 
-<a href="../03-context-engineering/" class="rounded-lg bg-white bg-opacity-10 hover:bg-opacity-20 transition-all no-underline">
-  <h3 class="text-xl font-bold">03 - Context Engineering</h3>
+<a href="../04-prompt-engineering/" class="rounded-lg bg-white bg-opacity-10 hover:bg-opacity-20 transition-all no-underline">
+  <h3 class="text-xl font-bold">04 - Prompt Engineering</h3>
+  <p class="text-sm opacity-70">Systematic techniques for getting reliable, high-quality output from AI models.</p>
+</a>
+
+<a href="../06-context-engineering/" class="rounded-lg bg-white bg-opacity-10 hover:bg-opacity-20 transition-all no-underline">
+  <h3 class="text-xl font-bold">06 - Context Engineering</h3>
   <p class="text-sm opacity-70">Context controls the quality of what you want to achieve.</p>
 </a>
 
-<a href="../04-why-software-engineers-need-ai/" class="rounded-lg bg-white bg-opacity-10 hover:bg-opacity-20 transition-all no-underline">
-  <h3 class="text-xl font-bold">04 - Why Software Engineers Need AI</h3>
-  <p class="text-sm opacity-70">The elephant in the room — embrace AI and future-proof your career.</p>
+<a href="../07-rules-and-instructions/" class="rounded-lg bg-white bg-opacity-10 hover:bg-opacity-20 transition-all no-underline">
+  <h3 class="text-xl font-bold">07 - Rules &amp; Instructions</h3>
+  <p class="text-sm opacity-70">Fine grained task delegation.</p>
+</a>
+
+<a href="../100-example-lesson/" class="rounded-lg bg-white bg-opacity-10 hover:bg-opacity-20 transition-all no-underline">
+  <h3 class="text-xl font-bold">100 - Example Lesson</h3>
+  <p class="text-sm opacity-70">This is an example lesson to demonstrate the structure</p>
 </a>
 
 <!-- Add more lessons here as you create them -->

@@ -12,7 +12,8 @@ Migrates content from `raw-material/` into structured lessons. Follow these step
 1. Preparation
 2. Selection
 3. Handle duplicated content
-4. Create lesson
+4. Research for correctness or missing content
+5. Create lesson
 
 ---
 
@@ -49,7 +50,15 @@ Before selecting content:
 
 ---
 
-## 4. Create Lesson
+## 4. Research for correctness or missing content
+
+- Be critical about the content
+- Check its correctness
+- Check if important information are missing
+
+---
+
+## 5. Create Lesson
 
 Create the lesson in this order:
 

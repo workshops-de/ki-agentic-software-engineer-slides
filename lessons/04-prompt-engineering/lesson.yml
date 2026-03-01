@@ -1,0 +1,16 @@
+name: Prompt Engineering
+position: 6
+
+trainer: trainer@workshops.de
+
+github_code_url: https://github.com/workshops-de/example-code-repo
+git_tag_starting: main
+
+slides_type: slidev
+
+pdf_generation_enabled: true
+
+stackblitz_enabled: false
+codesandbox_enabled: false
+
+deprecated: false

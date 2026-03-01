@@ -11,8 +11,8 @@ mdc: true
 seoMeta:
   ogImage: auto
 # Build configuration
-base: /01-example-lesson/
-out: ../../dist/01-example-lesson
+base: /100-example-lesson/
+out: ../../dist/100-example-lesson
 theme: '@workshops.de/slidev-theme'
 addons:
   - window-mockup

@@ -10,8 +10,8 @@ transition: slide-left
 mdc: true
 seoMeta:
   ogImage: auto
-base: /03-context-engineering/
-out: ../../dist/03-context-engineering
+base: /06-context-engineering/
+out: ../../dist/06-context-engineering
 theme: '@workshops.de/slidev-theme'
 src: ./slides/context-engineering/context-engineering.md
 ---

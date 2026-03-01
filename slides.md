@@ -21,13 +21,21 @@ src: ./00-index.md
 ---
 
 ---
-src: ./lessons/04-why-software-engineers-need-ai/04-why-software-engineers-need-ai.md
+src: ./lessons/01-why-software-engineers-need-ai/01-why-software-engineers-need-ai.md
 ---
 
 ---
-src: ./lessons/03-context-engineering/03-context-engineering.md
+src: ./lessons/02-llm-introduction/02-llm-introduction.md
 ---
 
 ---
-src: ./lessons/02-rules-and-instructions/02-rules-and-instructions.md
+src: ./lessons/04-prompt-engineering/04-prompt-engineering.md
+---
+
+---
+src: ./lessons/06-context-engineering/06-context-engineering.md
+---
+
+---
+src: ./lessons/07-rules-and-instructions/07-rules-and-instructions.md
 ---

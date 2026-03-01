@@ -10,8 +10,8 @@ transition: slide-left
 mdc: true
 seoMeta:
   ogImage: auto
-base: /02-rules-and-instructions/
-out: ../../dist/02-rules-and-instructions
+base: /07-rules-and-instructions/
+out: ../../dist/07-rules-and-instructions
 theme: '@workshops.de/slidev-theme'
 addons:
   - window-mockup

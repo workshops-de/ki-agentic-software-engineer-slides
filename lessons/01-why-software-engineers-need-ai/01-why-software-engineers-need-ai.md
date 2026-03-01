@@ -10,8 +10,8 @@ transition: slide-left
 mdc: true
 seoMeta:
   ogImage: auto
-base: /04-why-software-engineers-need-ai/
-out: ../../dist/04-why-software-engineers-need-ai
+base: /01-why-software-engineers-need-ai/
+out: ../../dist/01-why-software-engineers-need-ai
 theme: '@workshops.de/slidev-theme'
 addons:
   - window-mockup
