@@ -21,5 +21,13 @@ src: ./00-index.md
 ---
 
 ---
-src: ./lessons/01-example-lesson/01-example-lesson.md
+src: ./lessons/04-why-software-engineers-need-ai/04-why-software-engineers-need-ai.md
+---
+
+---
+src: ./lessons/03-context-engineering/03-context-engineering.md
+---
+
+---
+src: ./lessons/02-rules-and-instructions/02-rules-and-instructions.md
 ---

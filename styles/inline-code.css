@@ -1,0 +1,23 @@
+/**
+ * Inline code contrast overrides
+ * Improves readability of `inline code` in both light and dark themes
+ */
+
+/* Light mode: distinct background, dark text */
+:root {
+  --slidev-inline-code-bg: #e2e8f0;
+  --slidev-inline-code-fg: #1e293b;
+}
+
+/* Dark mode: distinct background, light text */
+html.dark {
+  --slidev-inline-code-bg: #475569;
+  --slidev-inline-code-fg: #f8fafc;
+}
+
+/* Apply to inline code (not code blocks) */
+.slidev-note :not(pre) > code,
+.slidev-layout :not(pre) > code {
+  background: var(--slidev-inline-code-bg) !important;
+  color: var(--slidev-inline-code-fg) !important;
+}

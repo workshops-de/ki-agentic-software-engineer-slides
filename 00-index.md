@@ -29,9 +29,24 @@ Slide Deck Collection
 
 <div class="grid grid-cols-1 gap-4 mt-8 text-left max-w-xl mx-auto">
 
-<a href="../01-example-lesson/" class="p-4 rounded-lg bg-white bg-opacity-10 hover:bg-opacity-20 transition-all no-underline">
+<a href="../01-example-lesson/" class="rounded-lg bg-white bg-opacity-10 hover:bg-opacity-20 transition-all no-underline">
   <h3 class="text-xl font-bold">01 - Example Lesson</h3>
   <p class="text-sm opacity-70">This is an example lesson to demonstrate the structure</p>
+</a>
+
+<a href="../02-rules-and-instructions/" class="rounded-lg bg-white bg-opacity-10 hover:bg-opacity-20 transition-all no-underline">
+  <h3 class="text-xl font-bold">02 - Rules &amp; Instructions</h3>
+  <p class="text-sm opacity-70">Fine grained task delegation.</p>
+</a>
+
+<a href="../03-context-engineering/" class="rounded-lg bg-white bg-opacity-10 hover:bg-opacity-20 transition-all no-underline">
+  <h3 class="text-xl font-bold">03 - Context Engineering</h3>
+  <p class="text-sm opacity-70">Context controls the quality of what you want to achieve.</p>
+</a>
+
+<a href="../04-why-software-engineers-need-ai/" class="rounded-lg bg-white bg-opacity-10 hover:bg-opacity-20 transition-all no-underline">
+  <h3 class="text-xl font-bold">04 - Why Software Engineers Need AI</h3>
+  <p class="text-sm opacity-70">The elephant in the room — embrace AI and future-proof your career.</p>
 </a>
 
 <!-- Add more lessons here as you create them -->
