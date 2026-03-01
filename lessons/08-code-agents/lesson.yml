@@ -1,0 +1,13 @@
+name: Code Agents
+position: 8
+
+trainer: trainer@workshops.de
+
+slides_type: slidev
+
+pdf_generation_enabled: true
+
+stackblitz_enabled: false
+codesandbox_enabled: false
+
+deprecated: false

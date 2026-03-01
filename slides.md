@@ -39,3 +39,7 @@ src: ./lessons/06-context-engineering/06-context-engineering.md
 ---
 src: ./lessons/07-rules-and-instructions/07-rules-and-instructions.md
 ---
+
+---
+src: ./lessons/08-code-agents/08-code-agents.md
+---
