@@ -25,6 +25,10 @@ src: ./lessons/01-why-software-engineers-need-ai/01-why-software-engineers-need-
 ---
 
 ---
+src: ./lessons/011-model-selection/011-model-selection.md
+---
+
+---
 src: ./lessons/02-llm-introduction/02-llm-introduction.md
 ---
 
