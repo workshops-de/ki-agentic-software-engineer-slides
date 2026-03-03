@@ -1,0 +1,3 @@
+- **Create a skill for context recovery** in `.cursor/skills`
+- **Let the skill** load the current requirement or issue when you or another skill needs it—for example when the agent has no GitHub issue number or needs to recall what to implement
+- **Purpose:** Ensures every agentic step (tests, implementation, refactoring) stays aligned with the original requirements; use it whenever an agent asks "what should I implement?" or lacks the issue context

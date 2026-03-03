@@ -2,7 +2,7 @@
 layout: section
 ---
 
-# Rules & Instructions
+# Agents & Skills
 
 ## Fine grained task delegation
 
@@ -389,11 +389,9 @@ layout: two-cols-header
 layoutClass: gap-4
 ---
 
-# Before / After Skills
-
 ::left::
 
-## Before
+# Before
 
 - Copy-paste instructions into every conversation
 - Rewrite context and examples each time
@@ -402,7 +400,7 @@ layoutClass: gap-4
 
 ::right::
 
-## After
+# After
 
 - Call `/github-issue` — instructions, scripts and assets auto-loaded
 - Consistent results every time
@@ -435,6 +433,16 @@ flowchart LR
 <Callout type="tip" v-click>
 Each Skill owns one step. The developer stays in the loop at every transition.
 </Callout>
+
+---
+layout: center
+---
+
+# Skills from the community for the community
+
+> Vercel hosts a website, where you find existing skills for your workflows
+
+https://skills.sh/
 
 ---
 layout: task

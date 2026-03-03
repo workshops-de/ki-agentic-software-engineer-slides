@@ -41,9 +41,13 @@ src: ./lessons/06-context-engineering/06-context-engineering.md
 ---
 
 ---
-src: ./lessons/07-rules-and-instructions/07-rules-and-instructions.md
+src: ./lessons/07-agents-skills/07-agents-skills.md
 ---
 
 ---
 src: ./lessons/08-code-agents/08-code-agents.md
+---
+
+---
+src: ./lessons/09-model-context-protocol/09-model-context-protocol.md
 ---

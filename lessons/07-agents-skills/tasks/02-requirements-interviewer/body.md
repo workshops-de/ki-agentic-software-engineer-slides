@@ -1,0 +1,3 @@
+- **Create a skill for requirements interviewing** in `.cursor/skills`
+- **Let the skill** interview you step-by-step about a feature or requirement: clarify goals, constraints, and scope, then output a user story with acceptance criteria (Given/When/Then) and technical notes
+- **Purpose:** Starts your agentic workflow with a shared definition of success; use it when you have a rough idea but need structured requirements before tests and implementation

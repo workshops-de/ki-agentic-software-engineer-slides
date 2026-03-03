@@ -1,0 +1,3 @@
+- **Create a skill for Angular refactoring** in `.cursor/skills`
+- **Let the skill** refactor Angular components according to your project standards and SOLID principles—e.g. one component per file, consistent abstraction levels, reactive composition
+- **Purpose:** The Refactor step in Red-Green-Refactor; use it after Green to clean up the implementation and keep the codebase aligned with your conventions

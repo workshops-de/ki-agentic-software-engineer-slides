@@ -1,0 +1,3 @@
+- **Create a skill for requirements finalisation** in `.cursor/skills`
+- **Let the skill** reconcile the implementation with the original acceptance criteria, run tests and build, update the GitHub issue, and output a completion summary
+- **Purpose:** Ends your agentic requirements workflow with verification and traceability; use it when the feature is implemented and you want to confirm delivery and close the issue

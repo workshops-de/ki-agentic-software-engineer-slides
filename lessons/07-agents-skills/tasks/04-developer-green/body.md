@@ -1,0 +1,3 @@
+- **Create a skill for the Green phase** in `.cursor/skills`
+- **Let the skill** take failing tests, parse their expectations, implement minimal production code to satisfy them, and verify that all tests pass—without altering tests unless they are wrong
+- **Purpose:** Completes the Red-Green loop; use it after developer-red when you want the agent to implement the feature to pass the scaffolded tests

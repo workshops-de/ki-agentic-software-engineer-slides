@@ -49,8 +49,8 @@ Slide Deck Collection
   <p class="text-sm opacity-70">Context controls the quality of what you want to achieve.</p>
 </a>
 
-<a href="../07-rules-and-instructions/" class="rounded-lg bg-white bg-opacity-10 hover:bg-opacity-20 transition-all no-underline">
-  <h3 class="text-xl font-bold">07 - Rules &amp; Instructions</h3>
+<a href="../07-agents-skills/" class="rounded-lg bg-white bg-opacity-10 hover:bg-opacity-20 transition-all no-underline">
+  <h3 class="text-xl font-bold">07 - Agents &amp; Skills</h3>
   <p class="text-sm opacity-70">Fine grained task delegation.</p>
 </a>
 

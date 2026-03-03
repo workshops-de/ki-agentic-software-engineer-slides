@@ -1,0 +1,3 @@
+- **Create a skill for the Red phase** in `.cursor/skills`
+- **Let the skill** take requirements (user story with acceptance criteria) and scaffold unit tests (e.g. Jasmine) and UI tests (e.g. Playwright) that initially fail; each Given/When/Then becomes a test case
+- **Purpose:** Makes TDD practical in an agentic workflow; use it after the requirements interviewer to generate failing tests before any production code
