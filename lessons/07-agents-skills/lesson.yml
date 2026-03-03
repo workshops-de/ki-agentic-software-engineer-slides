@@ -6,7 +6,7 @@ position: 2
 trainer: gregor.woiwode@workshops.de
 
 github_code_url: https://github.com:workshops-de/angular-workshop-agentic-ai-engineering
-git_tag_starting: main
+git_tag_starting: solution--rules-for-angular
 
 slides_type: slidev
 
