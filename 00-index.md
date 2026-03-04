@@ -59,6 +59,11 @@ Slide Deck Collection
   <p class="text-sm opacity-70">Autonomous agents and GitHub workflows for agentic development.</p>
 </a>
 
+<a href="../11-evals/" class="rounded-lg bg-white bg-opacity-10 hover:bg-opacity-20 transition-all no-underline">
+  <h3 class="text-xl font-bold">11 - Evals</h3>
+  <p class="text-sm opacity-70">Evidence-based testing for your AI setup with web-codegen-scorer.</p>
+</a>
+
 <a href="../100-example-lesson/" class="rounded-lg bg-white bg-opacity-10 hover:bg-opacity-20 transition-all no-underline">
   <h3 class="text-xl font-bold">100 - Example Lesson</h3>
   <p class="text-sm opacity-70">This is an example lesson to demonstrate the structure</p>

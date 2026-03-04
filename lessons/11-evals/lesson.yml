@@ -1,0 +1,17 @@
+# Lesson configuration for repository import
+
+name: Evals
+position: 11
+
+trainer: trainer@workshops.de
+
+github_code_url: https://github.com/workshops-de/example-code-repo
+git_tag_starting: main
+
+slides_type: slidev
+
+pdf_generation_enabled: true
+stackblitz_enabled: true
+codesandbox_enabled: false
+
+deprecated: false

@@ -55,3 +55,7 @@ src: ./lessons/09-model-context-protocol/09-model-context-protocol.md
 ---
 src: ./lessons/10-agentic-workflow/10-agentic-workflow.md
 ---
+
+---
+src: ./lessons/11-evals/11-evals.md
+---
