@@ -51,3 +51,7 @@ src: ./lessons/08-code-agents/08-code-agents.md
 ---
 src: ./lessons/09-model-context-protocol/09-model-context-protocol.md
 ---
+
+---
+src: ./lessons/10-agentic-workflow/10-agentic-workflow.md
+---

@@ -54,6 +54,11 @@ Slide Deck Collection
   <p class="text-sm opacity-70">Fine grained task delegation.</p>
 </a>
 
+<a href="../10-agentic-workflow/" class="rounded-lg bg-white bg-opacity-10 hover:bg-opacity-20 transition-all no-underline">
+  <h3 class="text-xl font-bold">10 - Agentic Workflow</h3>
+  <p class="text-sm opacity-70">Autonomous agents and GitHub workflows for agentic development.</p>
+</a>
+
 <a href="../100-example-lesson/" class="rounded-lg bg-white bg-opacity-10 hover:bg-opacity-20 transition-all no-underline">
   <h3 class="text-xl font-bold">100 - Example Lesson</h3>
   <p class="text-sm opacity-70">This is an example lesson to demonstrate the structure</p>
