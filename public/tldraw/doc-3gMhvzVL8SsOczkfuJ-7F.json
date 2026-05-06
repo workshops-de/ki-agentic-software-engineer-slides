@@ -432,8 +432,8 @@
       "typeName": "shape"
     },
     "shape:e-tgZh_12PeoeJmWR4004": {
-      "x": -230,
-      "y": 280,
+      "x": -249.775390625,
+      "y": 278.58203125,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -443,7 +443,7 @@
       "props": {
         "color": "light-blue",
         "size": "s",
-        "w": 53.906253814697266,
+        "w": 114.40628051757812,
         "font": "draw",
         "textAlign": "start",
         "autoSize": true,
@@ -460,6 +460,18 @@
                 {
                   "type": "text",
                   "text": "Input"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "attrs": {
+                "dir": "auto"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "User Prompt"
                 }
               ]
             }
@@ -736,8 +748,8 @@
       "typeName": "shape"
     },
     "shape:da2kEHAeVWuSK1-clRDro": {
-      "x": -40,
-      "y": 280,
+      "x": -43.701171875,
+      "y": 280.984375,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -793,8 +805,8 @@
       "typeName": "binding"
     },
     "shape:xW59efEEc0NkXL4fMwyp9": {
-      "x": 197.17419017955672,
-      "y": 391.8399639581205,
+      "x": 200.78356517955672,
+      "y": 397.8868389581205,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -980,7 +992,7 @@
       "typeName": "shape"
     },
     "shape:D_O7XQ0cBn1CLTzOPX19d": {
-      "x": 742.0516131137776,
+      "x": 744.0516131137776,
       "y": 457.38500225261754,
       "rotation": 0,
       "isLocked": false,
