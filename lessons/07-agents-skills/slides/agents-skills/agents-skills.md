@@ -385,6 +385,73 @@ Many Skills installed = no context penalty. Scripts run via bash — their <stro
 </Callout>
 
 ---
+layout: sub-section
+---
+
+# Skill authoring best practices
+
+---
+layout: default
+---
+
+# Write Skills like good functions
+
+- **Start from real expertise** — capture what *your team* does (not generic advice)
+- **Design coherent units** — one workflow per Skill, composable with others
+- **Spend context wisely** — add what the agent would otherwise get wrong
+- **Provide defaults** — “use X”; “if Y, fall back to Z”
+
+---
+layout: two-cols-header
+layoutClass: gap-4
+---
+
+# Spend context wisely
+
+::left::
+
+**Bad Skill text**
+
+- Explains obvious basics (PDF, HTTP, Git…)
+- Long prose instead of steps
+- Loads everything up front
+
+::right::
+
+**Better Skill text**
+
+- Focus on **gotchas** + project conventions
+- Stepwise procedure + small examples
+- Use `references/` for on-demand details
+
+---
+layout: default
+---
+
+# High-value patterns inside `SKILL.md`
+
+- **Gotchas**: “things that defy reasonable assumptions” (prevent repeated mistakes)
+- **Templates**: output structure (agent pattern-matches reliably)
+- **Checklists**: multi-step workflows; reduce skipped steps
+- **Validation loop**: do → validate → fix → re-validate
+
+---
+layout: default
+---
+
+# Process: extract → run → refine
+
+```mermaid
+flowchart TD
+  A[Extract from a real task] --> B[Draft SKILL.md]
+  B --> C[Run it on real tasks]
+  C --> D{Output good?}
+  D -- yes --> E[Keep as-is]
+  D -- no --> F[Add gotchas / tighten steps / add templates]
+  F --> C
+```
+
+---
 layout: two-cols-header
 layoutClass: gap-4
 ---
