@@ -16,5 +16,8 @@ theme: '@workshops.de/slidev-theme'
 addons:
   - window-mockup
   - slidev-addon-tldraw
-src: ./slides/agents-skills/agents-skills.md
+src: ./slides/agents-skills/rule-files.md
+---
+---
+src: ./slides/agents-skills/skills.md
 ---
